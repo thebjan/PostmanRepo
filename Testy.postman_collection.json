@@ -64,7 +64,7 @@
 					}
 				},
 				"url": {
-					"raw": "httpbinn.org/post",
+					"raw": "httpbin.org/post",
 					"host": [
 						"httpbin",
 						"org"
